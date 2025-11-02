@@ -1,5 +1,5 @@
 # DIO
-Repositório para armazenar conhecimentos obtidos no curso DIO Santander Code Girls 2025 - Módulo .
+Repositório para armazenar conhecimentos obtidos no curso DIO Santander Code Girls 2025 - Módulo Serviços Intermediários e Avançados.
 
 # AWS Step Functions
 Serviço serverless que permite criar fluxos de trabalho visuais e automáticos (workflows) que orquestram vários serviços da AWS. Ele coordena vários passos de um processo, na ordem certa, com condições, esperas, paralelismo e tratamento de erros - tudo isso através de uma interface visual (low-code).
